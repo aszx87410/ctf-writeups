@@ -1,3 +1,3 @@
 # CTF writeups
 
-覺得部落格太麻煩，就改用 GitHub Issues 來做了
+You can find writeups in [Issues](https://github.com/aszx87410/ctf-writeups/issues), it's a better place for people who is lazy to create md file...
