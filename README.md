@@ -2,6 +2,9 @@
 
 You can find writeups in [Issues](https://github.com/aszx87410/ctf-writeups/issues), it's a better place for people who is lazy to create md file...
 
+## LINE CTF 2021
+
+1. [LINE CTF 2021 - Your Note](https://github.com/aszx87410/ctf-writeups/issues/25)
 
 ## zer0pts CTF 2021 
 
