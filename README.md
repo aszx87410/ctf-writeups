@@ -2,6 +2,14 @@
 
 You can find writeups in [Issues](https://github.com/aszx87410/ctf-writeups/issues), it's a better place for people who is lazy to create md file...
 
+## VolgaCTF 2021 Qualifier
+
+1. [VolgaCTF 2021 Qualifier - Online Wallet (Part 2)](https://github.com/aszx87410/ctf-writeups/issues/27)
+2. [VolgaCTF 2021 Qualifier - Static Site](https://github.com/aszx87410/ctf-writeups/issues/28)
+3. [VolgaCTF 2021 Qualifier - Unicorn Networks](https://github.com/aszx87410/ctf-writeups/issues/29)
+4. [VolgaCTF 2021 Qualifier - JWT](https://github.com/aszx87410/ctf-writeups/issues/30)
+5. [VolgaCTF 2021 Qualifier - flask-admin](https://github.com/aszx87410/ctf-writeups/issues/31)
+
 ## LINE CTF 2021
 
 1. [LINE CTF 2021 - Your Note](https://github.com/aszx87410/ctf-writeups/issues/25)
