@@ -2,6 +2,10 @@
 
 You can find writeups in [Issues](https://github.com/aszx87410/ctf-writeups/issues), it's a better place for people who is lazy to create md file...
 
+## DEF CON CTF 2021 Quals
+
+1. [DEF CON CTF 2021 Quals - threefactooorx](https://github.com/aszx87410/ctf-writeups/issues/34)
+
 ## VolgaCTF 2021 Qualifier
 
 1. [VolgaCTF 2021 Qualifier - Online Wallet (Part 2)](https://github.com/aszx87410/ctf-writeups/issues/27)
