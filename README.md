@@ -2,6 +2,11 @@
 
 You can find writeups in [Issues](https://github.com/aszx87410/ctf-writeups/issues), it's a better place for people who is lazy to create md file...
 
+## Pwn2Win CTF 2021
+
+1. [Pwn2Win CTF 2021 - Illusion](https://github.com/aszx87410/ctf-writeups/issues/35)
+2. [Pwn2Win CTF 2021 - Small Talk](https://github.com/aszx87410/ctf-writeups/issues/36)
+
 ## DEF CON CTF 2021 Quals
 
 1. [DEF CON CTF 2021 Quals - threefactooorx](https://github.com/aszx87410/ctf-writeups/issues/34)
