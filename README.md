@@ -2,6 +2,11 @@
 
 You can find writeups in [Issues](https://github.com/aszx87410/ctf-writeups/issues), it's a better place for people who is lazy to create md file...
 
+## H@cktivityCon 2021 CTF
+
+1. [H@cktivityCon 2021 CTF - OTP Samsher](https://github.com/aszx87410/ctf-writeups/issues/41)
+2. [H@cktivityCon 2021 CTF - Words Church](https://github.com/aszx87410/ctf-writeups/issues/42)
+
 ## Pwn2Win CTF 2021
 
 1. [Pwn2Win CTF 2021 - Illusion](https://github.com/aszx87410/ctf-writeups/issues/35)
