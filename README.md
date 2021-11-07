@@ -2,6 +2,12 @@
 
 You can find writeups in [Issues](https://github.com/aszx87410/ctf-writeups/issues), it's a better place for people who is lazy to create md file...
 
+## BSides Ahmedabad CTF 2021
+
+1. [BSides Ahmedabad CTF 2021 - entrance](https://github.com/aszx87410/ctf-writeups/issues/45)
+2. [BSides Ahmedabad CTF 2021 - Roda](https://github.com/aszx87410/ctf-writeups/issues/46)
+3. [BSides Ahmedabad CTF 2021 - pugpug](https://github.com/aszx87410/ctf-writeups/issues/44)
+
 ## H@cktivityCon 2021 CTF
 
 1. [H@cktivityCon 2021 CTF - OTP Samsher](https://github.com/aszx87410/ctf-writeups/issues/41)
