@@ -2,6 +2,15 @@
 
 You can find writeups in [Issues](https://github.com/aszx87410/ctf-writeups/issues), it's a better place for people who is lazy to create md file...
 
+## Intigriti XSS Challenge
+
+1. [Intigriti 0222 XSS Challenge Author Writeup](https://github.com/aszx87410/ctf-writeups/issues/49)  
+2. [Writeup: Intigriti’s November XSS challenge By @IvarsVids](https://github.com/aszx87410/ctf-writeups/issues/48)  
+3. [Writeup: Intigriti’s October XSS challenge By @0xTib3rius ](https://github.com/aszx87410/ctf-writeups/issues/43)  
+4. [Writeup: Intigriti's 0721 XSS challenge - by @RootEval](https://github.com/aszx87410/ctf-writeups/issues/39)  
+5. [Writeup: Intigriti's 0521 XSS challenge - by @GrumpinouT](https://github.com/aszx87410/ctf-writeups/issues/38)  
+6. [Writeup: Intigriti's 0421 XSS challenge - by @terjanq](https://github.com/aszx87410/ctf-writeups/issues/33)  
+
 ## BSides Ahmedabad CTF 2021
 
 1. [BSides Ahmedabad CTF 2021 - entrance](https://github.com/aszx87410/ctf-writeups/issues/45)
