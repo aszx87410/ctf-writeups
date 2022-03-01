@@ -2,6 +2,13 @@
 
 You can find writeups in [Issues](https://github.com/aszx87410/ctf-writeups/issues), it's a better place for people who is lazy to create md file...
 
+## SUSCTF 2022
+
+1. [SUSCTF 2022 - web/fxxkcors](https://github.com/aszx87410/ctf-writeups/issues/50)  
+2. [SUSCTF 2022 - web/ez_note](https://github.com/aszx87410/ctf-writeups/issues/51)  
+3. [SUSCTF 2022 - web/baby gadget v1.0](https://github.com/aszx87410/ctf-writeups/issues/52)  
+4. [SUSCTF 2022 - web/HTML practice](https://github.com/aszx87410/ctf-writeups/issues/53)  
+
 ## Intigriti XSS Challenge
 
 1. [Intigriti 0222 XSS Challenge Author Writeup](https://github.com/aszx87410/ctf-writeups/issues/49)  
