@@ -1,5 +1,7 @@
 # CTF writeups
 
+2022-08-21 Updates: I built a english version of my blog, you can find the latest writeup here: [https://blog.huli.tw/en/](https://blog.huli.tw/en/)
+
 You can find writeups in [Issues](https://github.com/aszx87410/ctf-writeups/issues), it's a better place for people who is lazy to create md file...
 
 ## SUSCTF 2022
